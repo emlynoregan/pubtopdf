@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Input and output folders
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
